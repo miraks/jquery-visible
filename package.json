@@ -1,0 +1,14 @@
+{
+  "name": "jquery-visible",
+  "private": true,
+  "version": "1.2.0",
+  "main": "jquery.visible.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraks/jquery-visible.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miraks/jquery-visible/issues"
+  },
+  "homepage": "https://github.com/miraks/jquery-visible#readme"
+}
